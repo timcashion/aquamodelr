@@ -1,0 +1,545 @@
+Species,SciName,SpeciesGroup,On_Feed,FCR,FM,FO,Year,Area,DataType,Predicted,Source,Updated in,Notes,On_Feed_SD,FCR_SD,FM_SD,FO_SD,On_Feed_LL,FCR_LL,FM_LL,FO_LL,On_Feed_UL,FCR_UL,FM_UL,FO_UL
+,,Catfishes,85,2,5,0,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,81,1.8,8,0,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,72,1.8,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,73,1.8,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,73,1.7,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,74,1.7,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,74,1.5,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,73,1.6,12,0,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,75,1.6,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,75,1.5,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,72,1.5,8,0,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,76,1.5,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,72,1.5,7,0,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,76,1.5,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,77,1.5,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,73,1.5,5,0,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,77,1.5,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,78,1.4,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,78,1.4,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,75,1.4,3,0,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,80,1.3,2,0,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Catfishes,80,1.4,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,82,1.3,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Catfishes,85,1.3,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Striped catfish,Pangasius,Catfishes,100,1.51,8,1,2009,Vietnam,Reported,0,Huysveld et al. 2013 - Pangasius Vietnam,,,,,,,,,,,,,,
+Striped catfish,Pangasius,Catfishes,,,9.3,0.2,2009,Vietnam,Reported,0,Phan et al. 2009,,AND 14.8% trash fish,,,,,,,,,,,,
+Striped catfish,Pangasius,Catfishes,,1.311,7,0.2,2013,Vietnam,Reported,0,Henriksson et al. 2013 - SEAT Project,,Small farms with no full time labour,,,,,,,,,,,,
+Striped catfish,Pangasius,Catfishes,,1.744,7,0.2,2013,Vietnam,Reported,0,Henriksson et al. 2013 - SEAT Project,,Medium privately owned farms with full time labour,,,,,,,,,,,,
+Striped catfish,Pangasius,Catfishes,,1.586,7,0.2,2013,Vietnam,Reported,0,Henriksson et al. 2013 - SEAT Project,,Large corporate farms,,,,,,,,,,,,
+,,Eels,90,2,65,8,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,92,1.8,62,6,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,92,1.8,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,92,1.7,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,94,1.6,60,5,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,93,1.7,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,93,1.7,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,95,1.6,50,5,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,94,1.6,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,95,1.6,48,5,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,94,1.6,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,95,1.6,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,96,1.5,46,4,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,95,1.6,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,95,1.6,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,98,1.5,38,3,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,100,1.5,30,2,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Eels,95,1.6,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,96,1.6,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,96,1.6,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,96,1.6,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,97,1.5,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,98,1.5,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Eels,100,1.5,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,20,2,10,0,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,37,2,9,0,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,45,1.8,8,0,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,47,1.8,3,0,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,37,2,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,48,1.8,3,0,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,38,1.9,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,42,1.9,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,50,1.8,2,0,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,43,1.9,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,44,1.9,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,55,1.7,1,0,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,60,1.6,1,0,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Fed carps,45,1.8,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,46,1.8,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,47,1.8,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,48,1.8,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,49,1.8,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,50,1.8,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,51,1.7,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,52,1.7,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,55,1.7,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,60,1.6,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,65,1.6,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Fed carps,,,8.5,,2010,China,Reported,0,Chiu et al. ,,FCR given is by region and so was not included. ,,,,,,,0,,,,30,
+,,Freshwater crustaceans,35,2.5,25,2,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,40,2.4,23,2,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,45,2.2,20,1.5,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,47,2.1,20,1.5,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,48,2,18,1.5,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,50,2,16,1.5,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,40,2.4,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,55,1.9,12,1,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,60,1.8,8,1,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Freshwater crustaceans,41,2.4,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,42,2.3,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,43,2.3,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,44,2.2,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,45,2.2,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,46,2.1,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,47,2.1,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,48,2,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,49,2,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,50,2,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,51,2,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,52,1.9,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,55,1.9,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,60,1.8,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Freshwater crustaceans,65,1.7,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,50,2,50,15,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,60,2,44,10,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,70,1.9,38,8,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,72,1.9,32,8,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,72,1.9,29,8,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,73,1.9,26,6,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,75,1.8,18,5,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,80,1.8,12,4,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine fishes,60,2,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,62,2,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,65,2,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,67,2,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,70,1.9,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,70,1.9,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,71,1.9,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,72,1.9,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,72,1.9,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,73,1.9,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,74,1.9,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,75,1.8,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,76,1.8,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,80,1.7,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,85,1.6,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine fishes,90,1.5,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Barramundi,Lates calcarifer,Marine fishes,,1.5,,,,Australia,Average,0,https://web.archive.org/web/20180320225440/https://www.skretting.com/en-AU/faqs/how-much-feed-is-required-to-grow-a-farmed-fish/,,,,,,,,,,,,,,
+Sea-bass,Dicentrarchus labrax,Marine fishes,100,1.77,42,8,2003,France,Average,0,Aubin et al. 2009. Assessment of the environmental impact …,,,,,,,,,,,,,,
+Turbot,Scophtalmus maximus,Marine fishes,100,1.23,63.5,5,2000,France,Average,0,Aubin et al. 2009. Assessment of the environmental impact …,,,,,,,,,,,,,,
+,,Marine fishes,,,36.8,,2010,China,Reported,0,Chiu et al. ,,FCR given is by region and so was not included. ,,,,,,,24,,,,60,
+Bluefin tuna,,Marine fishes,100,15,,,2005,World,Average,0,Metian et al. 2014,,Reviewed in Metian et al. 2014. Average year taken for now,,,,,,10,,,,20,,
+Bluefin tuna,,Marine fishes,100,13.5,,,2005,Australia,Average,0,Metian et al. 2014,,Reviewed in Metian et al. 2014. Average year taken for now,,,,,,10,,,,17,,
+Bluefin tuna,,Marine fishes,100,12,,,2005,Mexico,Average,0,Metian et al. 2014,,Reviewed in Metian et al. 2014. Average year taken for now,,,,,,,,,,,,
+Bluefin tuna,,Marine fishes,100,15,,,2005,Japan,Average,0,Metian et al. 2014,,Reviewed in Metian et al. 2014. Average year taken for now,,,,,,10,,,,20,,
+Bluefin tuna,,Marine fishes,100,17.5,,,2005,Croatia,Average,0,Metian et al. 2014,,Reviewed in Metian et al. 2014. Average year taken for now,,,,,,15,,,,20,,
+Sea-bass,Dicentrarchus labrax,Marine fishes,100,1.89,,,2007,Tunisia,Reported,0,Jerbi et al. 2011- Raceway vs Cascade ,,Traditional Raceway,,,,,,,,,,,,
+Sea-bass,Dicentrarchus labrax,Marine fishes,100,2.11,,,2007,Tunisia,Reported,0,Jerbi et al. 2011- Raceway vs Cascade ,,Casecade Raceway,,,,,,,,,,,,
+Sea-bass,Dicentrarchus labrax,Marine fishes,100,1.88,42,24,2015,Tunisia,Reported,0,Abdou et al. 2017- Seabream vs Seabass,,,,,,,,,,,,,,
+Gilthead Seabream,,Marine fishes,100,1.85,38,28,2015,Tunisia,Reported,0,Abdou et al. 2017- Seabream vs Seabass,,,,,,,,,,,,,,
+,,Marine shrimps,75,2,28,2,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,82,2,25,2,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,89,1.8,24,2,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,92,1.6,20,2,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,93,1.6,20,2,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,95,1.6,16,2,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,97,1.5,12,1.5,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,100,1.4,8,1,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Marine shrimps,77,2,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,78,2,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,78,1.9,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,79,1.9,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,79,1.9,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,80,1.9,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,80,1.8,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,81,1.8,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,81,1.8,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,82,1.8,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,82,1.7,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,83,1.7,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,84,1.7,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,85,1.7,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,87,1.6,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Marine shrimps,90,1.5,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Whiteleg shrimp,Litopenaeus vannamei,Marine shrimps,100,1.6,46.2,2.8,2008,China,Average,0,Cao et al. 2011. Life cycle assessment of Chinese Shrimp Farming,,Intensive,,0.19,,,,,,,,,,
+Whiteleg shrimp,Litopenaeus vannamei,Marine shrimps,100,0.97,46.2,2.8,2008,China,Average,0,Cao et al. 2011. Life cycle assessment of Chinese Shrimp Farming,,Semi-intensive,,0.17,,,,,,,,,,
+Whiteleg shrimp,Litopenaeus vannamei,Marine shrimps,,,27,,2010,China,Reported,0,Chiu et al. ,,FCR given is by region and so was not included. ,,,,,,,20,,,,35,
+Amazon river prawn,Macrobrachium amazonicum,Marine shrimps,100,2.8,9.1394,1,2013,Brazil,Reported,0,Medeiros et al. 2017,,,,0.08,,,,,,,,,,
+Great tiger shrimp (aka Asian Tiger Shrimp),,Marine shrimps,,,17,0,2013,Bangladesh,Reported,0,Henriksson et al. 2013 - SEAT Project,,,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,,,17,0,2013,Bangladesh,Reported,0,Henriksson et al. 2013 - SEAT Project,,,,,,,,,,,,,,
+Great tiger shrimp (aka Asian Tiger Shrimp),,Marine shrimps,,1.59,28.3,0.22,2013,Vietnam,Reported,0,Henriksson et al. 2013 - SEAT Project,,Intensive,,,,,,,,,,,,
+Great tiger shrimp (aka Asian Tiger Shrimp),,Marine shrimps,,1.67,28.3,0.22,2013,Vietnam,Reported,0,Henriksson et al. 2013 - SEAT Project,,Semi-intensive,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,,1.477,28.8,1.3,2013,Thailand,Reported,0,Henriksson et al. 2013 - SEAT Project,,East,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,,1.493,28.8,1.3,2013,Thailand,Reported,0,Henriksson et al. 2013 - SEAT Project,,South,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,,1.256,38.5,1.6,2013,China,Reported,0,Henriksson et al. 2013 - SEAT Project,,Low-level earthen ponds with tidal water,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,,1.32,38.5,1.6,2013,China,Reported,0,Henriksson et al. 2013 - SEAT Project,,Lined high-level ponds with pumped water,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,,1.251,28.3,0.22,2013,Vietnam,Reported,0,Henriksson et al. 2013 - SEAT Project,,,,,,,,,,,,,,
+,,Milkfish,30,2,15,3,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,34,2,10,2,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,39,2,5,1,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,41,2,5,1,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,42,2,5,1,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,45,2,4,1,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,50,1.8,3,1,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,55,1.6,2,1,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Milkfish,34,2,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,35,2,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,36,2,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,37,2,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,38,2,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,39,2,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,40,2,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,41,2,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,42,2,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,43,2,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,45,2,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,46,2,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,47,2,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,50,1.8,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,55,1.6,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Milkfish,60,1.5,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,5,2,55,8,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,10,2,50,6,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,15,2,45,5,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,17,2,36,5,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,18,2,30,5,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,20,2,24,4,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,25,2,12,3,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,30,2,8,2,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,10,2,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,12,2,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,14,2,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,16,2,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,18,2,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,20,2,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,22,2,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,24,2,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,26,2,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,28,2,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,30,2,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,32,2,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,34,1.8,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,40,1.8,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,50,1.7,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Miscellaneous freshwater fishes,60,1.7,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Tambaqui,Colossoma macropomum,Miscellaneous freshwater fishes,100,1.14,5.3496,0.9038,2013,Brazil,Reported,0,Medeiros et al. 2017,,,,0.04,,,,,,,,,,
+,,Salmons,100,1.5,45,25,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,40,23,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,35,21,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,28,16,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,25,14,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,22,12,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,16,10,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,12,8,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,,1.103,32.8,25.25,2007,Norway,,0,"Pelletier N, Tyedmers P, Sonesson U, Scholz A, Ziegler F, Flysjo A, et al. Supporting Information: Not all salmon are created equal: life cycle assessment (LCA) of global salmon farming systems. Environ Sci Technol. 2009;43: 8730–6. doi:10.1021/es9010114",,,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,,1.331,40.5,26.7,2007,UK,,0,"Pelletier N, Tyedmers P, Sonesson U, Scholz A, Ziegler F, Flysjo A, et al. Supporting Information: Not all salmon are created equal: life cycle assessment (LCA) of global salmon farming systems. Environ Sci Technol. 2009;43: 8730–6. doi:10.1021/es9010114",,,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,,1.313,20.9,10.8,2007,Canada,,0,"Pelletier N, Tyedmers P, Sonesson U, Scholz A, Ziegler F, Flysjo A, et al. Supporting Information: Not all salmon are created equal: life cycle assessment (LCA) of global salmon farming systems. Environ Sci Technol. 2009;43: 8730–6. doi:10.1021/es9010114",,,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,,1.493,25.1,17.2,2007,Chile,,0,"Pelletier N, Tyedmers P, Sonesson U, Scholz A, Ziegler F, Flysjo A, et al. Supporting Information: Not all salmon are created equal: life cycle assessment (LCA) of global salmon farming systems. Environ Sci Technol. 2009;43: 8730–6. doi:10.1021/es9010114",,,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,,1.35,,,,Australia,Average,0,https://web.archive.org/web/20180320225440/https://www.skretting.com/en-AU/faqs/how-much-feed-is-required-to-grow-a-farmed-fish/,,,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,100,1.08,32,22.8,2008,Scotland,Average,0,Boissy et al. 2011. Salmonid diets at feed and farm scales,,Standard diet used; 3mm pellet size,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,100,1.08,25,27.5,2008,Scotland,Average,0,Boissy et al. 2011. Salmonid diets at feed and farm scales,,Standard diet used; 6mm pellet size,,,,,,,,,,,,
+Atlantic salmon,Salmo salar,Salmons,100,1.08,25,30,2008,Scotland,Average,0,Boissy et al. 2011. Salmonid diets at feed and farm scales,,Standard diet used; 9mm pellet size,,,,,,,,,,,,
+,,Tilapias,70,2,10,0,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,75,1.9,9,0,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,80,1.8,8,0,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,82,1.7,5,0,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,83,1.7,5,0,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,85,1.7,3,0,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,90,1.6,2,0,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,95,1.6,1,0,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Tilapias,75,1.9,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,76,1.9,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,77,1.8,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,78,1.8,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,79,1.8,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,80,1.8,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,81,1.7,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,82,1.7,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,83,1.7,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,84,1.7,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,85,1.7,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,86,1.7,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,87,1.7,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,90,1.7,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,95,1.6,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Tilapias,100,1.6,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Tilapia,,Tilapias,,,3,2,2010,Indonesia,,0,"Pelletier N, Tyedmers P. Life cycle assessment of frozen tilapia fillets from Indonesian lake-based and pond-based intensive aquaculture systems. J Ind Ecol. 2010;14: 467–481. doi:10.1111/j.1530-9290.2010.00244.x",,,,,,,,,,,,,,
+Indonesian tilapia,Oreochromis nilocticus,Tilapias,100,1.7,3,2,2007,Indonesia,Reported,0,"Pelletier and Tyedmers, 2010. Frozen Tilapia",,Lake production,,,,,,,,,,,,
+Indonesian tilapia,Oreochromis nilocticus,Tilapias,100,1.65,3,2,2007,Indonesia,Reported,0,"Pelletier and Tyedmers, 2010. Frozen Tilapia",,Pond production,,,,,,,,,,,,
+,,Tilapias,,,2.5,,2010,China,Reported,0,Chiu et al. ,,FCR given is by region and so was not included. ,,,,,,,2,,,,3,
+Nile tilapia,,Tilapias,100,1.4,50,0.4,2010,Egypt,Reported,0,Yacout et al. 2016. Comparative LCA of Tilapia ,,Semi-intensive,,,,,,,,,,,,
+Nile tilapia,,Tilapias,100,1.4,50,0.4,2010,Egypt,Reported,0,Yacout et al. 2016. Comparative LCA of Tilapia ,,Intensive,,,,,,,,,,,,
+,,Tilapias,,1.481,6.8,0.5,2013,China,Reported,0,Henriksson et al. 2013 - SEAT Project,,"Guangdong, intensive to semi-intensive farms, <30 post-larvae m2",,,,,,,,,,,,
+,,Tilapias,,1.805,6.8,0.5,2013,China,Reported,0,Henriksson et al. 2013 - SEAT Project,,"Hainan, Intensive to semi-intensive farms, <30 post-larvae m2",,,,,,,,,,,,
+,,Tilapias,,1.66,6.8,0.5,2013,China,Reported,0,Henriksson et al. 2013 - SEAT Project,,Farmed in freshwater resevoirs,,,,,,,,,,,,
+,,Tilapias,,1.45,6.8,0.5,2013,China,Reported,0,Henriksson et al. 2013 - SEAT Project,,"Guangdong, ponds fertilized by integrated pigs on dikes",,,,,,,,,,,,
+,,Trouts,100,1.5,40,20,1995,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,36,17,2000,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,34,16,2005,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,28,15,2007,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,25,15,2008,World,Average,0,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,22,12,2010,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,16,10,2015,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,12,8,2020,World,Average,1,Tacon et al. (2011),,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2000,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2001,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2002,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2003,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2004,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2005,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2006,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2007,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2008,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2009,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2010,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2011,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2012,World,Average,0,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2015,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2020,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+,,Trouts,100,1.3,,,2025,World,Average,1,"Tacon, A. G., & Metian, M. (2015). Feed matters: satisfying the feed demand of aquaculture. Reviews in Fisheries Science & Aquaculture, 23(1), 1-10.",,,,,,,,,,,,,,
+Rainbow trout,Oncorhynchus mykiss,Trouts,100,1.21,45,24,2000,France,Average,0,Aubin et al. 2009. Assessment of the environmental impact …,,,,,,,,,,,,,,
+Rainbow trout,Oncorhynchus mykiss,Trouts,100,1.11,24.4,5.6,2008,France,Average,0,Boissy et al. 2011. Salmonid diets at feed and farm scales,,Standard diet used,,,,,,,,,,,,
+Grass carp,,Fed carps,84.9442379,,1.5,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Silver carp,,Fed carps,4.4917258,,0,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Bighead carp,,Fed carps,4.6875,,0,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Common carp,,Fed carps,85.1735016,,6,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Crucian carp,,Fed carps,84.8375451,,8,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Tilapia,,Tilapias,90,,6,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Other fishes,,Miscellaneous freshwater fishes,68.4587814,,25,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,"Freshwater. Includes black carp, bream, catfish, eel, etc.",,,,,,,,,,,,
+Shrimp,,Freshwater crustaceans,62.5,,27,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Crab,,Freshwater crustaceans,0.7,,40,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Mollusks,,Unfed species,0,,0,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Algae,,Unfed species,0,,0,,2014,China,Average,0,"Xie S, Han D, Yang Y, Zhang S. Feed Developments in Freshwater Aquaculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 433Ð450.",,Freshwater,,,,,,,,,,,,
+Seabass,,Marine fishes,90,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Flounder,,Marine fishes,60,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Large yellow croaker,,Marine fishes,20,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Cobia,,Marine fishes,10,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Yellow tail,,Marine fishes,50,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Bream ,,Marine fishes,40,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Red drum,,Marine fishes,95,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Puffer,,Marine fishes,80,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Grouper,,Marine fishes,10,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Flatfish,,Marine fishes,60,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Other fishes,,Marine fishes,50,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Pacific white shrimp,,Marine shrimps,100,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Tiger prawn,,Marine shrimps,100,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Chinese shrimp,,Marine shrimps,100,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Kuruma prawn,,Marine shrimps,100,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Swimming crab,,Marine crustaceans,15,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Green crab,,Marine crustaceans,5,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Abalone,,Others,3,,,,2014,China,Average,0,"Mai K, Zhang W. Feed Developments in Mariculture Importance of Feeds for Mariculture. In: Gui J-F, Tang Q, Li Z, Liu J, Silva SS De, editors. Aquaculture in China: Success Stories and Modern Trends. John Wiley & Sons; 2018. pp. 451Ð462.",,Marine,,,,,,,,,,,,
+Seabass,,Marine fishes,90.9090909,,35,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+Flatfish,,Marine fishes,61.5384615,,50,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+Large yellow croaker,,Marine fishes,23.0769231,,45,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+Grouper,,Marine fishes,11.1111111,,50,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+Other fishes,,Marine fishes,50,,40,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+,,Crustaceans,74.1258741,,35,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+,,Molluscs,0.0759301,,,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+,,Unfed species,0,,,,2014,China,Average,0,"Han D, Shan X, Zhang W, Chen Y, Wang Q, Li Z, et al. A revisit to fishmeal usage and associated consequences in Chinese aquaculture. Rev Aquac. 2016; 1Ð15. doi:10.1111/raq.12183",,,,,,,,,,,,,,
+Grass carp,,Fed carps,54.17,2.35,2,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Cupped
+oysters nei",,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Silver carp,,Unfed species,0,1.78,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Japanese
+carpet shell",,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Bighead
+carp",,Unfed species,0,1.78,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Common
+carp",,Fed carps,55.17,1.83,6,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"[Carassius
+spp]",,Freshwater fishes,52,1.7,8,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Tilapia,,Freshwater fishes,81.25,1.6,6,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Scallops nei,,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Other fishes,,Freshwater fishes,90.28,1.68,25,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Shellfish,,Others,0.52,1.71,25,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Whiteleg shrimp,,Marine shrimps,93.75,1.2,27,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Sea   mussels
+nei",,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Chinese mitten crab,,Freshwater crustaceans,56.25,2.37,21,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Constricted
+tagelus",,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Wuchang
+bream",,Freshwater fishes,57.14,1.66,6,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Whiteleg
+shrimp",,Freshwater crustaceans,93.75,1.2,29,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Red swamp
+crawfish",,Freshwater crustaceans,9.38,1.56,10,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Black carp,,Fed carps,63.75,1.54,10,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Snakehead,,Freshwater fishes,76.74,1.28,30,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"catfish(__
+)",,Freshwater fishes,81.25,1.12,32,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Invertebrate
+s",,Others,37.5,1.57,45,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Asian swamp eel,,Freshwater fishes,45.14,1.79,38,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Blood cockle,,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Largemouth
+black bass",,Freshwater fishes,27.08,1.57,53,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Pond loach,,Freshwater fishes,76.74,2.1,10,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Chinese softshell
+turtle",,Others,93.75,1.46,50,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Yellow
+catfish",,Freshwater fishes,90.28,1.6,27,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Mandarin
+fish",,Freshwater fishes,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Oriental
+river prawn",,Freshwater crustaceans,75,1.79,21,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Channel
+catfish",,Freshwater fishes,90.28,2.29,8,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Sea snails,,Others,1.88,1.38,30,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Japanese
+eel",,Freshwater fishes,90.28,1.51,55,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Japanese sea
+cucumber",,Others,12.19,7.02,3,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+IndoPacific swamp crab,,Marine crustaceans,4.69,2.35,39,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Other
+Crustaceans",,Marine crustaceans,52.34,1.54,35,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Large  yellow
+croaker",,Marine fishes,18.75,1.7,45,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Giant river prawn,,Freshwater crustaceans,93.75,1.42,28,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Flounder  (_
+_)",,Marine fishes,56.25,1.07,50,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Portunus swimcrabs
+nei",,Marine crustaceans,4.69,1.9,41,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Abalones nei,,Others,2.81,2.05,20,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Largemouth
+black bass",,Marine fishes,84.38,1.57,37,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Sea snails,,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Snubnose
+pompano",,Marine fishes,89.06,1.42,35,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Pirapatinga,,Freshwater fishes,90.28,2.08,5,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Frogs,,Others,93.75,1.17,32,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Swan
+mussel",,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Groupers nei,,Marine fishes,14.06,1.47,50,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Giant tiger
+prawn",,Marine shrimps,93.75,1.41,30,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Red drum,,Marine fishes,28.13,1.83,40,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Jellyfishes
+nei",,Others,28.13,0,20,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Porgies, seabreams
+nei",,Marine fishes,46.88,1.66,45,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Others,,Others,13.44,7.02,12,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Fleshy
+prawn",,Marine shrimps,79.69,1.17,35,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Kuruma
+prawn",,Marine shrimps,37.5,1.22,35,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Others,,Others,93.75,1.39,38,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"River and lake turtles
+nei",,Others,93.75,1.53,32,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Cobia,,Marine fishes,9.38,2.05,43,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Asian clam,,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+Shellfish,,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Clearhead
+icefish",,Freshwater fishes,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Amberjacks
+nei",,Marine fishes,18.75,1.07,45,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Tiger
+pufferfish",,Marine fishes,18.75,2.16,41,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Pen       shells
+nei",,Unfed species,0,0,0,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"other
+Crustaceans",,Freshwater crustaceans,65.63,1.67,22,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+"Righteye flounders
+nei",,Marine fishes,75,1.27,45,,2014,China,Average,0,"Greenpeace Report, 2014.",,,,,,,,,,,,,,
+,,Salmons,100,1.3,25,15,2008,Norway,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25,15,,,25,15
+,,Salmons,100,1.3,22.5,15,2008,Chile,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,15,,,25,15
+,,Salmons,100,1.3,35,25,2008,United Kingdom,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,35,25,,,35,25
+,,Salmons,100,1.3,30,20,2008,Canada,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25,15,,,35,25
+,,Salmons,100,1.3,32.5,17.5,2008,Australia,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25,10,,,40,25
+,,Salmons,100,1.3,26.14540192,16.45841483,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25.21417815,15.94881978,,,27.0766257,16.96800988
+,,Salmons,100,1.3,26.14540192,16.45841483,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25.21417815,15.94881978,,,27.0766257,16.96800988
+,,Trouts,100,1.3,22.5,15,2008,Chile,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,15,,,25,15
+,,Trouts,100,1.3,25,15,2008,Norway,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25,15,,,25,15
+,,Trouts,100,1.3,32,20,2008,Denmark,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,32,20,,,32,20
+,,Trouts,100,1.3,25,12.5,2008,France,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,10,,,30,15
+,,Trouts,100,1.3,30,20,2008,United Kingdom,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,30,20,,,30,20
+,,Trouts,100,1.3,30,20,2008,Canada,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25,15,,,35,25
+,,Trouts,100,1.3,20,12.5,2008,Mexico,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,15,10,,,25,15
+,,Trouts,100,1.3,30,11,2008,Greece,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,7,,,40,15
+,,Trouts,100,1.3,29,12.5,2008,Argentina,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,18,5,,,40,20
+,,Trouts,100,1.3,24.44497342,15.45776933,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,22.25049488,15.0514,,,26.63945196,15.86413866
+,,Trouts,100,1.3,24.44497342,15.45776933,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,22.25049488,15.0514,,,26.63945196,15.86413866
+,,Shrimps,95,1.6,27.5,1.5,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,25,1,,,30,2
+,,Shrimps,95,1.6,12.5,0,2008,Ecuador,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,0,,,20,0
+,,Shrimps,95,1.6,25,2.5,2008,India,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,2,,,30,3
+,,Shrimps,95,1.6,16,4.5,2008,Mexico,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,12,3,,,20,6
+,,Shrimps,95,1.6,12.5,3,2008,Nicaragua,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,12.5,3,,,12.5,3
+,,Shrimps,95,1.6,22,4,2008,"Venezuela, Boliv Rep of",Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,22,4,,,22,4
+,,Shrimps,95,1.6,30,3.5,2008,Australia,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,2,,,40,5
+,,Shrimps,95,1.6,35,7,2008,United States of America,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,30,5,,,40,9
+,,Shrimps,95,1.6,24.83432656,1.586537037,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,21.54263753,1.094037449,,,28.1260156,2.079036626
+,,Shrimps,95,1.6,24.83432656,1.586537037,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,21.54263753,1.094037449,,,28.1260156,2.079036626
+,,Marine fishes,73,1.9,35,5,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,20,5,,,50,5
+,,Marine fishes,73,1.9,30,11,2008,Greece,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,20,11,,,40,15
+,,Marine fishes,73,1.9,54.5,9.5,2008,Spain,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,45,7,,,64,12
+,,Marine fishes,73,1.9,57.5,7,2008,Taiwan Province of China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,50,6,,,65,8
+,,Marine fishes,73,1.9,50,12,2008,Norway,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,50,12,,,50,12
+,,Marine fishes,73,1.9,30,12.5,2008,Australia,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,20,5,,,40,20
+,,Marine fishes,73,1.9,25,7.5,2008,France,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,20,5,,,30,10
+,,Marine fishes,73,1.9,30,12.5,2008,United States of America,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,20,5,,,40,20
+,,Marine fishes,73,1.9,60,15,2008,United Kingdom,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,60,15,,,60,15
+,,Marine fishes,73,1.9,36.49256106,6.037656711,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,22.89296027,5.798395575,,,50.09216185,6.619313071
+,,Marine fishes,73,1.9,36.49256106,6.037656711,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,All marine + barramundi but excluding mugilidae,,,,,,,22.89296027,5.798395575,,,50.09216185,6.619313071
+,Mugilidae,Marine fishes,73,1.9,8,0,2008,Egypt,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,4,0,,,12,0
+,Mugilidae,Marine fishes,73,1.9,8,0,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,4,0,,,12,0
+,Mugilidae,Marine fishes,73,1.9,8,0,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,4,0,,,12,0
+,,Carps,50,1.8,1.5,0,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,3,0
+,,Carps,50,1.8,0,0,2008,India,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,0,0
+,,Carps,50,1.8,8,0,2008,Egypt,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,4,0,,,12,0
+,,Carps,50,1.8,1.164304279,0,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0.052770372,0,,,2.275838187,0
+,,Carps,50,1.8,1.164304279,0,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0.052770372,0,,,2.275838187,0
+,,Catfishes,73,1.5,0,0,2008,Viet Nam,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,5,0
+,,Catfishes,73,1.5,0,0,2008,United States of America,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,0,0
+,,Catfishes,73,1.5,10,4.5,2008,Mexico,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,3,3,,,12.5,6
+,,Catfishes,73,1.5,5,0,2008,India,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,10,0,,,7.5,0
+,,Catfishes,73,1.5,4.214269222,0.004668923,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0.010375384,0.003112615,,,8.41816306,0.006225231
+,,Catfishes,73,1.5,4.214269222,0.004668923,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0.010375384,0.003112615,,,8.41816306,0.006225231
+,,Tilapias,85,1.7,1.5,0,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,3,0
+,,Tilapias,85,1.7,8,0,2008,Egypt,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,4,0,,,12,0
+,,Tilapias,85,1.7,5,0,2008,Viet Nam,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,0,,,5,0
+,,Tilapias,85,1.7,22.5,4,2008,Taiwan Province of China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,3,,,25,5
+,,Tilapias,85,1.7,5,0,2008,Ecuador,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,10,0
+,,Tilapias,85,1.7,3.5,1,2008,United States of America,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,2,1,,,5,1
+,,Tilapias,85,1.7,12.5,4.5,2008,Mexico,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,10,3,,,15,6
+,,Tilapias,85,1.7,20,0,2008,Peru,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,0,,,20,0
+,,Tilapias,85,1.7,16,0,2008,"Venezuela, Boliv Rep of",Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,16,0,,,16,0
+,,Tilapias,85,1.7,4.240383881,0.164437165,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,2.01665793,0.123044956,,,6.464109832,0.205829374
+,,Tilapias,85,1.7,4.240383881,0.164437165,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,2.01665793,0.123044956,,,6.464109832,0.205829374
+,,Eels,96,1.5,62.5,4,2008,Taiwan Province of China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,60,3,,,65,5
+,,Eels,96,1.5,55,18,2008,Denmark,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,55,18,,,55,18
+,,Eels,96,1.5,61.82975871,5.251117069,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,59.55317248,4.340482574,,,64.10634495,6.161751564
+,,Eels,96,1.5,61.82975871,5.251117069,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,59.55317248,4.340482574,,,64.10634495,6.161751564
+Chinese mitten crab,,Freshwater crustaceans,50,2,6.5,0.75,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,13,1.5
+Chinese mitten crab,,Freshwater crustaceans,50,2,6.5,0.75,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,13,1.5
+Chinese mitten crab,,Freshwater crustaceans,50,2,6.5,0.75,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,0,0,,,13,1.5
+Crawfish/crayfish,,Freshwater crustaceans,50,2,7.5,4,2008,Australia,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,3,,,10,5
+Crawfish/crayfish,,Freshwater crustaceans,50,2,7.5,4,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,3,,,10,5
+Crawfish/crayfish,,Freshwater crustaceans,50,2,7.5,4,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,3,,,10,5
+Freshwater prawns,,Freshwater crustaceans,50,2,25,0.5,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,0,,,30,1
+Freshwater prawns,,Freshwater crustaceans,50,2,25,2.5,2008,India,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,2,,,30,3
+Freshwater prawns,,Freshwater crustaceans,50,2,42.5,6,2008,Taiwan Province of China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,5,,,65,7
+Freshwater prawns,,Freshwater crustaceans,50,2,25.27937527,0.704031251,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,0.196049101,,,30.55875055,1.212013402
+Freshwater prawns,,Freshwater crustaceans,50,2,25.27937527,0.704031251,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,20,0.196049101,,,30.55875055,1.212013402
+,,Milkfish,45,2,7.5,4,2008,Taiwan Province of China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,3,,,10,5
+,,Milkfish,45,2,7.5,4,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,3,,,10,5
+,,Milkfish,45,2,7.5,4,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,5,3,,,10,5
+,,Misc. freshwater species,20,2,12.5,0,2008,China,Reported,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,7,0,,,18,0
+,,Misc. freshwater species,20,2,12.5,0,2008,Other countries,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,7,0,,,18,0
+,,Misc. freshwater species,20,2,12.5,0,2008,World,Average,0,"Troell, Max. Unpublished Data. Used in Tacon & Metian 2008",,,,,,,,,7,0,,,18,0
