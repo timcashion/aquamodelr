@@ -11,3 +11,7 @@ ipak(pkg)
 Installs and loads packages
 Source: https://gist.github.com/stevenworthington/3178163
 }
+\examples{
+ipak("ggplot2")
+ipak(c("ggplot2", "plyr", "reshape2", "RColorBrewer", "scales", "grid"))
+}

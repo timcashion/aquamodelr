@@ -1,0 +1,60 @@
+
+Dataset name definiion:
+TS_*  "time-series": corresponds to the contents of the FAO database and structure according to a series of codes (CL);
+CL_*  "code-lists": contains the identifier and mapping to other codes and descriptions; 
+HCL_*  "hierarchical code-lists": contains the grouping information, a pointer (foreign key) from the reference object (parent) to the children
+DSD_* "Data Structure Definition": describes how information in a specific dataset is structured. It defines the dimensions, measures and their related attributes.
+
+
+Character encoding system in CSV files
+All information contents in the files in CSV (comma-separated values) format are in UTF-8 format. 
+To open these files in Excel, go to the menu
+Data->From Text and select File origin "65001: Unicode UTF-8" and comma delimiter
+
+
+NB: When viewing time-series data in FISHSTAT, in order to obtain the aggregates presented in the 
+Summary Tables of the "FAO Yearbook of Fishery Statistics - Aquaculture Production" which exclude production figures 
+for aquatic plants, pearls and mother-of-pearl, data should be filtered using a Custom Group:
+"Fish, crustaceans and molluscs, etc."(1801). 
+The species of this group are shown in CL_FI_SPECIES_GROUPS.csv file in the column Yearbook_Group.
+
+
+COPYRIGHT & DISCLAIMER CLAUSES
+Some rights reserved. This work is made available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence 
+(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode).
+
+Under the terms of this licence, this work may be copied, redistributed and adapted for non-commercial purposes, provided 
+that the work is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific 
+organization, products or services. The use of the FAO logo is not permitted. If the work is adapted, then it must be licensed 
+under the same or equivalent Creative Commons license. If a translation of this work is created, it must include the following 
+disclaimer along with the required citation: "This translation was not created by the Food and Agriculture Organization of 
+the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original [Language] 
+edition shall be the authoritative edition."
+
+Disputes arising under the licence that cannot be settled amicably will be resolved by mediation and arbitration as 
+described in Article 8 of the licence except as otherwise provided herein. The applicable mediation rules will be the 
+mediation rules of the World Intellectual Property Organization http://www.wipo.int/amc/en/mediation/rules )and any 
+arbitration will be in accordance with the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL).
+
+Requests for commercial use should be submitted via: www.fao.org/contact-us/licence-request. Queries regarding rights 
+and licensing should be submitted to: copyright@fao.org.
+
+The designations employed and the presentation of material in this information product do not imply the expression of 
+any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the 
+legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation 
+of its frontiers or boundaries. The mention of specific companies or products of manufacturers, whether or not these have 
+been patented, does not imply that these have been endorsed or recommended by FAO in preference to others of a similar 
+nature that are not mentioned.
+
+FAO declines all responsibility for errors or deficiencies in the database or software or in the documentation 
+accompanying it, for program maintenance and upgrading as well as for any damage that may arise from them. 
+FAO also declines any responsibility for updating the data and assumes no responsibility for errors and omissions 
+in the data provided. Users are, however, kindly asked to report any errors or deficiencies in this product to FAO.
+
+The word "countries" appearing in the text refers to countries, territories and areas without distinction.
+
+The designations employed and the presentation of material in the map(s) do not imply the expression of any opinion 
+whatsoever on the part of FAO concerning the legal or constitutional status of any country, territory or sea area, 
+or concerning the delimitation of frontiers.
+
+(c)FAO 2019

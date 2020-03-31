@@ -9,6 +9,7 @@
 #' rebuild_fish("C:/Users/kdgor/OneDrive - american.edu/FAO Data/Production-Global/ZippedFiles/GlobalProduction_2019.1.0.zip")
 #' rebuild_fish("K:/FishStatR/Data/Production-Global/ZippedFiles/GlobalProduction_2019.1.0.zip")
 #' @export
+#' Source: https://github.com/kdgorospe/fishstatr/
 
 
 rebuild_fish <- function(path_to_zipfile) {
